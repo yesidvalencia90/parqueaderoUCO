@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Parqueadero UCO</string>
+    <string name="bienvenido">Bienvenido (a) escoja una opción</string>
+    <string name="configurar_tarifa">Configurarción de tarifas</string>
+    <string name="listado_tarifas">Listado de tarifas</string>
+</resources>
