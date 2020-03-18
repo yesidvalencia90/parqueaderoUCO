@@ -3,4 +3,5 @@
     <string name="bienvenido">Bienvenido (a) escoja una opción</string>
     <string name="configurar_tarifa">Configurarción de tarifas</string>
     <string name="listado_tarifas">Listado de tarifas</string>
+    <string name="menu_principal">Menu principal</string>
 </resources>
