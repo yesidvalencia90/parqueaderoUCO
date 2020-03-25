@@ -4,4 +4,12 @@
     <string name="configurar_tarifa">Configurarción de tarifas</string>
     <string name="listado_tarifas">Listado de tarifas</string>
     <string name="menu_principal">Menu principal</string>
+    <string name="registro_tarifa">Registrar tarifa</string>
+    <string name="guardar">Guardar</string>
+    <string name="digite_nombre_tarifa">Digite nombre tarifa</string>
+    <string name="digite_valor_tarifa">Digite un valor de tarifa</string>
+    <string name="requerido">Requerido</string>
+    <string name="successfully">La información se ha guardado satisfactoriamente</string>
+    <string name="tarifas">Tarifas</string>
+    <string name="sin_tarifas">No existen tarifas configuradas en el sistema</string>
 </resources>
