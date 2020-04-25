@@ -8,6 +8,7 @@ import android.view.View;
 
 import co.com.k4soft.parqueaderouco.R;
 import co.com.k4soft.parqueaderouco.utilities.ActionBarUtil;
+import co.com.k4soft.parqueaderouco.view.moviento.MovimientoActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -40,4 +41,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void gotToIngresoSalida(View view) {
+        Intent intent = new Intent(this, MovimientoActivity.class);
+        startActivity(intent);
+    }
 }

@@ -12,4 +12,13 @@
     <string name="successfully">La información se ha guardado satisfactoriamente</string>
     <string name="tarifas">Tarifas</string>
     <string name="sin_tarifas">No existen tarifas configuradas en el sistema</string>
+    <string name="registrar_ingreso">Registrar ingreso</string>
+    <string name="registrar_salida">Registrar salida</string>
+    <string name="totalPagar">Total a pagar:</string>
+    <string name="cantidadHoras">Cantidad horas:</string>
+    <string name="registrsr_ingreso_salida">Registrar ingresos y salidas</string>
+    <string name="digitar_placa">Digita una placa</string>
+    <string name="buscar">Buscar</string>
+    <string name="debe_seleccionar_tarifa">Debe seleccionar una tarifa</string>
+    <string name="informacion_guardada_exitosamente">La información se ha guardado exitosamente</string>
 </resources>

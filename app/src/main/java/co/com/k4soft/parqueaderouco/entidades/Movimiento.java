@@ -19,7 +19,20 @@ public class Movimiento {
     @NonNull
     @ColumnInfo(name = "idMovimiento")
     private Integer idMovimiento;
+
     @ColumnInfo(name = "idTarifa")
     private Integer idTarifa;
+
+    @ColumnInfo(name = "placa")
+    private String placa;
+
+    @ColumnInfo(name = "fechaEntrada")
+    private String fechaEntrada;
+
+    @ColumnInfo(name = "fechaSalida")
+    private String fechaSalida;
+
+    @ColumnInfo(name = "finalizaMovimiento")
+    private boolean finalizaMovimiento;
 
 }

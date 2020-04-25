@@ -18,7 +18,6 @@ public class ActionBarUtil {
 
     public void setToolBar(String mensaje) {
         if (appCompatActivity.getSupportActionBar() != null) {
-            appCompatActivity.getSupportActionBar().setDisplayHomeAsUpEnabled(true);
             appCompatActivity.getSupportActionBar().setDisplayShowHomeEnabled(true);
             appCompatActivity.getSupportActionBar().setTitle(mensaje);
         }
