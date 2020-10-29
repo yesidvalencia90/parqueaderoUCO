@@ -21,4 +21,8 @@
     <string name="buscar">Buscar</string>
     <string name="debe_seleccionar_tarifa">Debe seleccionar una tarifa</string>
     <string name="informacion_guardada_exitosamente">La información se ha guardado exitosamente</string>
+    <string name="confirmDialogMessage">Esta seguro de registrar esta salida?</string>
+    <string name="confirmDialogTitle">Registrar Salida</string>
+    <string name="confirmDelete">Continuar</string>
+    <string name="cancelDelete">Cancelar</string>
 </resources>

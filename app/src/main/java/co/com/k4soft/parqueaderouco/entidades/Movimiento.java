@@ -35,4 +35,7 @@ public class Movimiento {
     @ColumnInfo(name = "finalizaMovimiento")
     private boolean finalizaMovimiento;
 
+    @ColumnInfo(name = "totalPagado")
+    private double totalPagado;
+
 }

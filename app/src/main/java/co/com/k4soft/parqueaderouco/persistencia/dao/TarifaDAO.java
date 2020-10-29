@@ -24,9 +24,6 @@ public interface TarifaDAO {
     @Query("SELECT * FROM tarifa")
     List<Tarifa> listar();
 
-
-
-
-
-
+    @Query("SELECT * FROM tarifa WHERE idTarifa=:idTarifa")
+    Tarifa findByTarifa(int idTarifa);
 }

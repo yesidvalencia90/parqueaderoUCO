@@ -31,7 +31,6 @@ public class TarifaActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -54,7 +53,6 @@ public class TarifaActivity extends AppCompatActivity {
             listViewTarifas.setAdapter(arrayAdapter);
         }
     }
-
 
     private void initComponents() {
         db = DataBaseHelper.getDBMainThread(this);

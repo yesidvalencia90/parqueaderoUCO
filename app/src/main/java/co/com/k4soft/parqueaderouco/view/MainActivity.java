@@ -33,6 +33,10 @@ public class MainActivity extends AppCompatActivity {
        startActivity(intent);
     }
 
+    public void goToReporte(View view){
+        Intent intent = new Intent(this,ReporteActivity.class);
+        startActivity(intent);
+    }
 
     @Override
     public boolean onSupportNavigateUp() {
